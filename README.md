@@ -1,6 +1,74 @@
 # cafe24
 
+https://webfontworld.github.io/NEXONGothic/Cafe24SsurroundAir.css
+https://webfontworld.github.io/NEXONGothic/Cafe24SsurroundAir.png
+
 <pre>
+@font-face {
+    font-family: 'Cafe24SsurroundAir';
+    font-weight: normal; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/cafe24/Cafe24SsurroundAir.woff2) format('woff2');
+    font-display: swap;
+}
+</pre>
+
+https://webfontworld.github.io/NEXONGothic/Cafe24Ssurround.css
+https://webfontworld.github.io/NEXONGothic/Cafe24Ssurround.png
+
+<pre>
+@font-face {
+    font-family: 'Cafe24Ssurround';
+    font-weight: normal; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/cafe24/Cafe24Ssurround.woff2) format('woff2');
+    font-display: swap;
+}
+</pre>
+
+
+https://webfontworld.github.io/NEXONGothic/Cafe24Ohsquareair.css
+https://webfontworld.github.io/NEXONGothic/Cafe24Ohsquareair.png
+
+<pre>
+@font-face {
+    font-family: 'Cafe24Ohsquareair';
+    font-weight: normal; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/cafe24/Cafe24Ohsquareair.woff2) format('woff2');
+    font-display: swap;
+}
+</pre>
+
+https://webfontworld.github.io/NEXONGothic/Cafe24Ohsquare.css
+https://webfontworld.github.io/NEXONGothic/Cafe24Ohsquare.png
+
+<pre>
+@font-face {
+    font-family: 'Cafe24Ohsquare';
+    font-weight: normal; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/cafe24/Cafe24Ohsquare.woff2) format('woff2');
+    font-display: swap;
+}
+</pre>
+
+<img src="https://webfontworld.github.io/NEXONGothic/Cafe24Shiningstar.png" width="100" />
+https://webfontworld.github.io/NEXONGothic/Cafe24Shiningstar.css<br>
+
+
+<pre>
+@font-face {
+    font-family: 'Cafe24Shiningstar';
+    font-weight: normal; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/cafe24/Cafe24Shiningstar.woff2) format('woff2');
+    font-display: swap;
+}
+</pre>
+
+
+
 @font-face {
     font-family: 'Cafe24Dangdanghae';
     font-weight: normal; 
@@ -57,13 +125,7 @@
     src: url(https://cdn.jsdelivr.net/gh/webfontworld/cafe24/Cafe24Ssukssuk.woff2) format('woff2');
     font-display: swap;
 }
-@font-face {
-    font-family: 'Cafe24Ssurround';
-    font-weight: normal; 
-    font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/cafe24/Cafe24Ssurround.woff2) format('woff2');
-    font-display: swap;
-}
+
 @font-face {
     font-family: 'Cafe24Syongsyong';
     font-weight: normal; 
