@@ -1,8 +1,8 @@
 # cafe24
 
                            
-https://webfontworld.github.io/cafe24/Cafe24SsurroundAir.png<br>
-https://webfontworld.github.io/cafe24/Cafe24SsurroundAir.css<br>
+https://webfontworld.github.io/cafe24/Cafe24Ssurroundair.png<br>
+https://webfontworld.github.io/cafe24/Cafe24Ssurroundair.css<br>
 https://wess.tistory.com/202
 
 <pre>
