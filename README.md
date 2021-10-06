@@ -58,8 +58,8 @@ https://wess.tistory.com/205
 }
 </pre>
 
-https://webfontworld.github.io/cafe24/Cafe24Shiningstar.img<br>
 https://webfontworld.github.io/cafe24/Cafe24Shiningstar.css<br>
+https://webfontworld.github.io/cafe24/Cafe24Shiningstar.png<br>
 https://wess.tistory.com/206
 
 <pre>
