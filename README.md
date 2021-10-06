@@ -1,8 +1,8 @@
 # cafe24
 
                            
-https://webfontworld.github.io/NEXONGothic/Cafe24SsurroundAir.png<br>
-https://webfontworld.github.io/NEXONGothic/Cafe24SsurroundAir.css<br>
+https://webfontworld.github.io/cafe24/Cafe24SsurroundAir.png<br>
+https://webfontworld.github.io/cafe24/Cafe24SsurroundAir.css<br>
 https://wess.tistory.com/202
 
 <pre>
@@ -15,8 +15,8 @@ https://wess.tistory.com/202
 }
 </pre>
 
-https://webfontworld.github.io/NEXONGothic/Cafe24Ssurround.css<br> 
-https://webfontworld.github.io/NEXONGothic/Cafe24Ssurround.png<br>
+https://webfontworld.github.io/cafe24/Cafe24Ssurround.css<br> 
+https://webfontworld.github.io/cafe24/Cafe24Ssurround.png<br>
 https://wess.tistory.com/203
 
 <pre>
@@ -30,8 +30,8 @@ https://wess.tistory.com/203
 </pre>
 
 
-https://webfontworld.github.io/NEXONGothic/Cafe24Ohsquareair.css<br> 
-https://webfontworld.github.io/NEXONGothic/Cafe24Ohsquareair.png<br>
+https://webfontworld.github.io/cafe24/Cafe24Ohsquareair.css<br> 
+https://webfontworld.github.io/cafe24/Cafe24Ohsquareair.png<br>
 https://wess.tistory.com/204
 
 <pre>
@@ -44,8 +44,8 @@ https://wess.tistory.com/204
 }
 </pre>
 
-https://webfontworld.github.io/NEXONGothic/Cafe24Ohsquare.css<br> 
-https://webfontworld.github.io/NEXONGothic/Cafe24Ohsquare.png<br>
+https://webfontworld.github.io/cafe24/Cafe24Ohsquare.css<br> 
+https://webfontworld.github.io/cafe24/Cafe24Ohsquare.png<br>
 https://wess.tistory.com/205
 
 <pre>
@@ -58,8 +58,8 @@ https://wess.tistory.com/205
 }
 </pre>
 
-https://webfontworld.github.io/NEXONGothic/Cafe24Shiningstar.img<br>
-https://webfontworld.github.io/NEXONGothic/Cafe24Shiningstar.css<br>
+https://webfontworld.github.io/cafe24/Cafe24Shiningstar.img<br>
+https://webfontworld.github.io/cafe24/Cafe24Shiningstar.css<br>
 https://wess.tistory.com/206
 
 <pre>
@@ -73,8 +73,8 @@ https://wess.tistory.com/206
 </pre>
 
 
-https://webfontworld.github.io/NEXONGothic/Cafe24Oneprettynight.png<br>
-https://webfontworld.github.io/NEXONGothic/Cafe24Oneprettynight.css<br>
+https://webfontworld.github.io/cafe24/Cafe24Oneprettynight.png<br>
+https://webfontworld.github.io/cafe24/Cafe24Oneprettynight.css<br>
 https://wess.tistory.com/207
 
 <pre>
@@ -88,8 +88,8 @@ https://wess.tistory.com/207
 </pre>
 
 
-https://webfontworld.github.io/NEXONGothic/Cafe24Dangdanghae.png<br>
-https://webfontworld.github.io/NEXONGothic/Cafe24Dangdanghae.css<br>
+https://webfontworld.github.io/cafe24/Cafe24Dangdanghae.png<br>
+https://webfontworld.github.io/cafe24/Cafe24Dangdanghae.css<br>
 https://wess.tistory.com/208
 
 <pre>
@@ -103,8 +103,8 @@ https://wess.tistory.com/208
 </pre>
 
 
-https://webfontworld.github.io/NEXONGothic/Cafe24Danjunghae.png<br>
-https://webfontworld.github.io/NEXONGothic/Cafe24Danjunghae.css<br>
+https://webfontworld.github.io/cafe24/Cafe24Danjunghae.png<br>
+https://webfontworld.github.io/cafe24/Cafe24Danjunghae.css<br>
 https://wess.tistory.com/209
 
 <pre>
@@ -117,8 +117,8 @@ https://wess.tistory.com/209
 }
 </pre>
 
-https://webfontworld.github.io/NEXONGothic/Cafe24Simplehae.png<br>
-https://webfontworld.github.io/NEXONGothic/Cafe24Simplehae.css<br>
+https://webfontworld.github.io/cafe24/Cafe24Simplehae.png<br>
+https://webfontworld.github.io/cafe24/Cafe24Simplehae.css<br>
 https://wess.tistory.com/210
 
 <pre>
@@ -131,8 +131,8 @@ https://wess.tistory.com/210
 }
 </pre>
 
-https://webfontworld.github.io/NEXONGothic/Cafe24Dongdong.png<br>
-https://webfontworld.github.io/NEXONGothic/Cafe24Dongdong.css<br>
+https://webfontworld.github.io/cafe24/Cafe24Dongdong.png<br>
+https://webfontworld.github.io/cafe24/Cafe24Dongdong.css<br>
 https://wess.tistory.com/211
 
 <pre>
@@ -145,8 +145,8 @@ https://wess.tistory.com/211
 }
 </pre>
 
-https://webfontworld.github.io/NEXONGothic/Cafe24Ssukssuk.png<br>
-https://webfontworld.github.io/NEXONGothic/Cafe24Ssukssuk.css<br>
+https://webfontworld.github.io/cafe24/Cafe24Ssukssuk.png<br>
+https://webfontworld.github.io/cafe24/Cafe24Ssukssuk.css<br>
 https://wess.tistory.com/212
 
 <pre>
@@ -160,8 +160,8 @@ https://wess.tistory.com/212
 </pre>
 
 
-https://webfontworld.github.io/NEXONGothic/Cafe24Syongsyong.png<br>
-https://webfontworld.github.io/NEXONGothic/Cafe24Syongsyong.css<br>
+https://webfontworld.github.io/cafe24/Cafe24Syongsyong.png<br>
+https://webfontworld.github.io/cafe24/Cafe24Syongsyong.css<br>
 https://wess.tistory.com/213
 
 <pre>
