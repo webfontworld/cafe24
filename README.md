@@ -7,10 +7,10 @@ https://wess.tistory.com/202
 
 <pre>
 @font-face {
-    font-family: 'Cafe24SsurroundAir';
+    font-family: 'Cafe24Ssurroundair';
     font-weight: normal; 
     font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/cafe24/Cafe24SsurroundAir.woff2) format('woff2');
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/cafe24/Cafe24Ssurroundair.woff2) format('woff2');
     font-display: swap;
 }
 </pre>
